@@ -1,0 +1,13 @@
+﻿fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+pandas
+numpy
+scikit-learn
+scipy
+joblib
+httpx
+python-multipart
+python-dotenv
+pytest
